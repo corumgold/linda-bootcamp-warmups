@@ -8,8 +8,4 @@ function palindromeChecker(str) {
   }
 }
 
-console.log(palindromeChecker("racecar")); // true
-console.log(palindromeChecker("Stanley")); // false
-console.log(palindromeChecker("Abba")); // true
-console.log(palindromeChecker("a man a plan a canal panama")); // true
-console.log(palindromeChecker("a man a plan a canal panama")); // true
+module.exports = palindromeChecker;
