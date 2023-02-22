@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jest": "^29.4.3"
+  },
+  "name": "linda-bootcamp-warmups",
+  "description": "",
+  "version": "1.0.0",
+  "main": "palindrome.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corumgold/linda-bootcamp-warmups.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corumgold/linda-bootcamp-warmups/issues"
+  },
+  "homepage": "https://github.com/corumgold/linda-bootcamp-warmups#readme"
+}
